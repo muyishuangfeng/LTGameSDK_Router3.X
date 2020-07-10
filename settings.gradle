@@ -1,0 +1,2 @@
+include ':ltgamesdkrouter'
+rootProject.name='LTGameSDK_Router3.X'
